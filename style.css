@@ -1,0 +1,61 @@
+/* * {
+    background-color: purple;
+}
+
+.myCircle {
+    stroke-width: 6px;
+    stroke: orange;
+} */
+/* .myCircle {
+    border-color: orange;
+    border-width: 6px;  
+} */
+/* .myCircle {
+    outline: orange;
+    outline-width: 6px;
+} */
+
+/* body {
+    font-family: Arial;
+    font-size: 10px;
+}
+header {
+    font-size: 26px;
+    color: red;
+}
+h1 {
+    font-family: 'Times New Roman';
+    color: blue;
+}
+.program {
+    color: green;
+}
+
+.first {
+    position: absolute;
+    z-index: 5;
+    font-size: 20px;
+    background-color: aqua;
+}
+.second {
+    position: absolute;
+    z-index: 10;
+    font-size: 20px;
+    background-color: aquamarine;
+} */
+/* .first {
+    z-index: 20;
+} */
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(100, 100, 100, .5);
+    padding: 25px;
+}
+
+.box {
+    background-color: white;
+    padding: 50px;
+    margin: 10px;
+}
