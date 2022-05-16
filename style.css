@@ -47,7 +47,7 @@ h1 {
     z-index: 20;
 } */
 
-.container {
+/* .container {
     display: flex;
     justify-content: space-around;
     background-color: rgba(100, 100, 100, .5);
@@ -58,4 +58,75 @@ h1 {
     background-color: white;
     padding: 50px;
     margin: 10px;
+    border-radius: 20px 0;
+} */
+
+/* h1 ~ p {
+    color: green;
+} */
+
+/* body {
+    font-size: 18px;
+}
+h1 {
+    font-size: 36px;
+} */
+
+/* footer {
+    width: 1024px;
+    padding: 20px 10px 30px 10px;
+    border: 2px solid black;
+    box-sizing: content-box;
+} */
+
+/* li {
+    border-bottom: 1px dotted tomato;
+}
+
+li:nth-child(1) {
+    border-bottom: none;
+} */
+
+/* h1 {
+    color: green;
+}
+.title {
+    color: orange;
+}
+#headline {
+    color: blue;
+} */
+/* 
+header {
+    text-align: center;
+}
+li {
+    float: left;
+}
+ul {
+    display: inline-block;
+} */
+
+/* .row {
+    border: 1px dotted;
+}
+.primary {
+    float: left;
+}
+.secondary {
+    float: right;
+} */
+/* 
+.icon {
+    position: relative ;
+    top: 20px;
+    left: 50%;
+} */
+
+/* .card {
+    position: static;
+} */
+
+tr:nth-of-type(2n) {
+    background-color: rgb(255,130,100);
 }
