@@ -127,6 +127,21 @@ ul {
     position: static;
 } */
 
-tr:nth-of-type(2n) {
+/* tr:nth-of-type(2n) {
     background-color: rgb(255,130,100);
-}
+} */
+p {
+    font-size: 1rem;
+  }
+  
+  @media (max-width: 320px) {
+    p {
+      font-size: 1.8rem;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    p {
+      font-size: 2rem;
+    }
+  }
