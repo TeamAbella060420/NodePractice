@@ -66,7 +66,7 @@
 // hero[powers]
 
 function getName(first_name, last_name, shorten) {
-    var output = first_name + " ";
+    var $50 = first_name + " ";
     if (shorten) {
         output += last_name[0] + ".";
     }
